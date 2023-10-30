@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.me</title>
+    <link>/</link>
+    <description>Recent content on .me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Joshua Jiehua Chasnov</copyright>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#vulkan-allocator</title>
+      <link>/posts/vulkan-allocator/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/vulkan-allocator/</guid>
+      <description>Building a simple Vulkan allocator.</description>
+      
+    </item>
+    
+    <item>
+      <title>#this-website</title>
+      <link>/posts/this-website/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/this-website/</guid>
+      <description>How I made this website.</description>
+      
+    </item>
+    
+    <item>
+      <title>.about</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a computer scientist.</description>
+      
+    </item>
+    
+    <item>
+      <title>.resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
