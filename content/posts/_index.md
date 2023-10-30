@@ -1,5 +1,5 @@
 ---
-title: "blog."
+title: ".blog"
 draft: false
 
 showHero: true

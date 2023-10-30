@@ -1,7 +1,6 @@
 ---
-title: "This Website"
+title: "#this-website"
 date: 2023-10-29
-lastmod: 2023-10-30T01:11
 draft: false
 summary: "How I made this website."
 
@@ -11,7 +10,6 @@ showWordCount: false
 
 <style>
   li {
-    /* Default bullets style erased */
     list-style: none;
   }
 
@@ -21,9 +19,6 @@ showWordCount: false
     display: inline-block;
     width: 1em;
     margin-left: -1em;
-  }
-
-  li {
   }
 </style>
 
@@ -47,4 +42,4 @@ The tech stack used for creating this website is:
 
 Looking foward to blogging!
 
-{{< github repo="jjc914/joshua-chasnov" >}}
+{{< github repo="jjc914/portfolio-website" >}}

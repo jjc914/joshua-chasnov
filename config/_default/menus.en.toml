@@ -11,24 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "about."
+  name = ".about"
   pageRef = "about"
   weight = 10
 
 [[main]]
-  name = "blog."
+  name = ".blog"
   pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "resume."
+  name = ".resume"
   pageRef = "resume"
   weight = 30
-
-[[main]]
-  name = "contact."
-  pageRef = "contact"
-  weight = 40
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
