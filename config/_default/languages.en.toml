@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "me."
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Joshua Jiehua Chasnov's website. "
+
+[author]
+  name = "Joshua Jiehua Chasnov"
+  image = "img/me.jpg"
+  headline = "Computer Science and Engineering"
+  bio = "A computer scientist looking to learn about computers. "
+  links = [
+    { email = "mailto:josh.chasnov@gmail.com" },
+    { github = "https://github.com/jjc914/joshua-chasnov" },
+    { linkedin = "https://www.linkedin.com/in/joshua-chasnov-294b94226/" },
+    { itchio = "https://joshuc.itch.io/" },
+  ]
